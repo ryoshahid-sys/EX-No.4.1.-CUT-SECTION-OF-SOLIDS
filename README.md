@@ -45,4 +45,5 @@ To create the solid model from given drawing and section the solid model
 ## RESULT:
 
 Thus, the cut section for solid model is created.
+<img width="1012" height="723" alt="ex3 3" src="https://github.com/user-attachments/assets/bcc315bc-2d85-49be-ad98-58b4ba2683fe" />
 
